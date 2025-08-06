@@ -14,6 +14,7 @@ public class Test8Application {
 		String city="yavatmal";
 =======
 		String email="Akshay@gmail.com";
+		float wait=23.4;
 >>>>>>> 62ed4530130ef231e6d82a8a1808050be71dca55
 		SpringApplication.run(Test8Application.class, args);
 	}
