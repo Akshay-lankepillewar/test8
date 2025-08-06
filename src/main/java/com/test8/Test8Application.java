@@ -10,6 +10,7 @@ public class Test8Application {
 		int x=10;
 		String name="AKSHAY";
 		long salary=2345;
+		String city="yavatmal";
 		SpringApplication.run(Test8Application.class, args);
 	}
 
