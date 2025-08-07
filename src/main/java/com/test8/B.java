@@ -3,7 +3,7 @@ public class EmployeeController {
     private String city;
 
     // Let's return an int (say, Employee ID)
-    public employee createEmployee(Employee employee) {
+    public Employee createEmployee(Employee employee) {
         return employee;  // Assuming Employee has getId()
     }
 
