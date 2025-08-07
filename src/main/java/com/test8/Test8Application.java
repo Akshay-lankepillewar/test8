@@ -7,7 +7,15 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test8Application {
 
 	public static void main(String[] args) {
+    bug-fix
+		int x=10;
+		String name="AKSHAY";
+		long salary=2345;
+		String city="yavatmal";
+		String email="Akshay@gmail.com";
+		float wait=23.4;
 		char ch='a';
+ main
 		SpringApplication.run(Test8Application.class, args);
 	}
 
