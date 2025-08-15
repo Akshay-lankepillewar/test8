@@ -1,14 +1,14 @@
 Hello world
 
-public class A{
+public class Factorial{
 public static void main (String[] args){
     fact =1;
     int i=1;
     int n=5;
- for (i=1;i<=n;i++){
+  for (i=1;i<=n;i++){
      fact =fact*i;
   }
-System.out.println("enter the factorial of :"+ fact);
+   System.out.println("enter the factorial of :"+ fact);
  }
 }
 
